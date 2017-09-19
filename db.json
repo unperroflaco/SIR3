@@ -28,5 +28,9 @@
   },
   "07respuesta": {
     "sCodigoFraude": "1234567890111111"
+  },
+  "08peticion": {
+    "sPAN": "1234567890111111"
   }
+  
 }
