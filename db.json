@@ -1,24 +1,32 @@
 {
-	"cabecera": {
-		"sCodigoPeticion": 9999999999,
-		"sCodOperativa": "99",
-		"sCodExpediente": "R9999999999",
-		"sCodigoRespuesta": "999",
-		"sCodigoError": "99",
-		"nFechaRespuesta": 9999999999
-	},
-	"06peticion": {
-		"sPAN": "1234567890111111"
-	},
-	"06respuesta": {
-		"sDNI": "XXXXXXXXX",
-		"sNombre": "XXXXXXXXXXXXXXXXXXX",
-		"sNumCliente": 9999999999999999999,
-		"sTelefono": "999999999",
-		"sEmail": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-	}, 
-	"memo": {
-		"sPAN": "1234567890111111",
-		"sMemo": "Esto es una prueba de comentario memo"
-	}
+  "cabecera": {
+    "sCodigoPeticion": 9999999999,
+    "sCodOperativa": "99",
+    "sCodExpediente": "R9999999999",
+    "sCodigoRespuesta": "999",
+    "sCodigoError": "99",
+    "nFechaRespuesta": 9999999999
+  },
+  "memo": {
+    "sPAN": "1234567890111111",
+    "sMemo": "Esto es una prueba de comentario memo"
+  },
+  "06peticion": {
+    "sPAN": "1234567890111111"
+  },
+  "06respuesta": {
+    "sDNI": "XXXXXXXXX",
+    "sNombre": "XXXXXXXXXXXXXXXXXXX",
+    "sNumCliente": 10000000000000000000,
+    "sTelefono": "999999999",
+    "sEmail": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  "07peticion": {
+    "sPAN": "1234567890111111",
+	"sNumCliente": 10000000000000000000,
+	"sFechaSiniestro": "20170915"
+  },
+  "07respuesta": {
+    "sCodigoFraude": "1234567890111111"
+  }
 }
