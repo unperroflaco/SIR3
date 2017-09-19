@@ -1,0 +1,14 @@
+{
+	"cabecera": {
+		"sCodigoPeticion": 9999999999,
+		"sCodOperativa": "99",
+		"sCodExpediente": "R9999999999",
+		"sCodigoRespuesta": "999",
+		"sCodigoError": "99",
+		"nFechaRespuesta": 9999999999
+	},
+	"memo": {
+		"sPAN": "1234567890111111",
+		"sMemo": "Esto es una prueba de comentario memo"
+	}
+}
