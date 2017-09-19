@@ -1,17 +1,20 @@
 {
-	"cabecera":
-	{
-		"sCodigoPeticion":9999999999 , 
-		"sCodOperativa":"99", 
-		"sCodExpediente":"R9999999999", 
-		"sCodigoRespuesta":"999", 
-		"sCodigoError":"99", 
-		"nFechaRespuesta":9999999999 
-	},
-	"memo":
-	{
-		"sPAN":"1234567890111111" , 
-		"sMemo":"Esto es una prueba de comentario memo"
-	}
+  "cabecera": {
+    "sCodigoPeticion": 9999999999,
+    "sCodOperativa": "99",
+    "sCodExpediente": "R9999999999",
+    "sCodigoRespuesta": "999",
+    "sCodigoError": "99",
+    "nFechaRespuesta": 9999999999
+  },
+  "peticion": {
+    "sPAN": "1234567890111111",
+  },
+  "respuesta": {
+    "sDNI": "XXXXXXXXX",
+    "sNombre": "XXXXXXXXXXXXXXXXXXX",
+    "sNumCliente": 9999999999999999999,
+    "sTelefono": "999999999",
+    "sEmail": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  }
 }
-
