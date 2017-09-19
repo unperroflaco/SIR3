@@ -7,14 +7,18 @@
 		"sCodigoError": "99",
 		"nFechaRespuesta": 9999999999
 	},
-	"peticion": {
+	"06peticion": {
 		"sPAN": "1234567890111111"
 	},
-	"respuesta": {
+	"06respuesta": {
 		"sDNI": "XXXXXXXXX",
 		"sNombre": "XXXXXXXXXXXXXXXXXXX",
 		"sNumCliente": 9999999999999999999,
 		"sTelefono": "999999999",
 		"sEmail": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+	},
+	"memo": {
+		"sPAN": "1234567890111111",
+		"sMemo": "Esto es una prueba de comentario memo"
 	}
 }
