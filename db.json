@@ -16,7 +16,7 @@
 		"sNumCliente": 9999999999999999999,
 		"sTelefono": "999999999",
 		"sEmail": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-	},
+	}, 
 	"memo": {
 		"sPAN": "1234567890111111",
 		"sMemo": "Esto es una prueba de comentario memo"
