@@ -1,14 +1,11 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"cabecera":
+	{
+		{"sCodigoPeticion":9999999999 , "sCodOperativa":"99", "sCodExpediente":"R9999999999", "sCodigoRespuesta":"999", "sCodigoError":"99", "nFechaRespuesta":9999999999 }
+	},
+	"memo":
+	{
+		{"sPAN":"1234567890111111" , "sMemo":"Esto es una prueba de comentario memo"}
+	}
 }
+
