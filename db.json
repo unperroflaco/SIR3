@@ -1,18 +1,42 @@
 {
 	"cabecera": {
-		"sCodigoPeticion": 54,
+		"sCodigoPeticion": 9999999999,
 		"sCodOperativa": "07",
 		"sCodExpediente": "R1709031618",
 		"sCodigoRespuesta": "000",
 		"sCodigoError": "99",
 		"nFechaRespuesta": 9999999999
 	},
-	"07peticion": {
+	"08peticion": {
 		"sPAN": "4255497777777777",
-		"sNumCliente": 1234567890123456800,
-		"sFechaSiniestro": "25092017"
 	},
-	"07respuesta": {
-		"sCodigoFraude": "1234123412341234"
-	}
+	"08respuesta": [
+		{
+		  "Fecha": "25092017",
+		  "Importe": 100,59,
+		  "CodigoRespuesta": "XX",
+		  "DiasRestante": "025",
+		  "Plan": "10000",
+		  "CodigoActividad": "05411",
+		  "Comercio": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	"
+		},
+		{
+		  "Fecha": "25092017",
+		  "Importe": 100,59,
+		  "CodigoRespuesta": "XX",
+		  "DiasRestante": "025",
+		  "Plan": "10000",
+		  "CodigoActividad": "05411",
+		  "Comercio": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	"
+		},
+		{
+		  "Fecha": "25092017",
+		  "Importe": 100,59,
+		  "CodigoRespuesta": "XX",
+		  "DiasRestante": "025",
+		  "Plan": "10000",
+		  "CodigoActividad": "05411",
+		  "Comercio": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	"
+		}
+	]
 }
