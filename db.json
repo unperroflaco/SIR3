@@ -13,7 +13,7 @@
 	"08respuesta": [
 		{
 		  "Fecha": "25092017",
-		  "Importe": 100,59,
+		  "Importe": 100.59,
 		  "CodigoRespuesta": "XX",
 		  "DiasRestante": "025",
 		  "Plan": "10000",
@@ -22,7 +22,7 @@
 		},
 		{
 		  "Fecha": "25092017",
-		  "Importe": 100,59,
+		  "Importe": 100.59,
 		  "CodigoRespuesta": "XX",
 		  "DiasRestante": "025",
 		  "Plan": "10000",
@@ -31,7 +31,7 @@
 		},
 		{
 		  "Fecha": "25092017",
-		  "Importe": 100,59,
+		  "Importe": 100.59,
 		  "CodigoRespuesta": "XX",
 		  "DiasRestante": "025",
 		  "Plan": "10000",
