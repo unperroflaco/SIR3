@@ -1,20 +1,17 @@
 {
-  "cabecera": {
-    "sCodigoPeticion": 9999999999,
-    "sCodOperativa": "99",
-    "sCodExpediente": "R9999999999",
-    "sCodigoRespuesta": "003",
-    "sCodigoError": "99",
-    "nFechaRespuesta": 9999999999
-  },
-  "06peticion": {
-    "sPAN": "1234567890111111"
-  },
-  "06respuesta": {
-    "sDNI": "XXXXXXXXX",
-    "sNombre": "XXXXXXXXXXXXXXXXXXX",
-    "sNumCliente": 10000000000000000000,
-    "sTelefono": "999999999",
-    "sEmail": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-  }
-}
+					  "cabecera": {
+					    "sCodigoPeticion": 9999999999,
+					    "sCodOperativa": "99",
+					    "sCodExpediente": "R9999999999",
+					    "sCodigoRespuesta": "999",
+					    "sCodigoError": "99",
+					    "nFechaRespuesta": 9999999999
+					  },
+					  "07peticion": {
+					    "sPAN": "1234567890111111",
+						"sNumCliente": 10000000000000000000,
+						"sFechaSiniestro": "20170915"
+					  },
+					  "07respuesta": {
+					    "sCodigoFraude": "1234567890111111"
+					  }
