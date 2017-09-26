@@ -7,10 +7,10 @@
     "sCodigoError": "99",
     "nFechaRespuesta": 9999999999
   },
-  "peticion": {
+  "06peticion": {
     "sPAN": "1234567890111111"
   },
-  "respuesta": {
+  "06respuesta": {
     "sDNI": "XXXXXXXXX",
     "sNombre": "XXXXXXXXXXXXXXXXXXX",
     "sNumCliente": 10000000000000000000,
