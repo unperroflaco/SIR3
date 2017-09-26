@@ -1,42 +1,20 @@
 {
-	"cabecera": {
-		"sCodigoPeticion": 9999999999,
-		"sCodOperativa": "07",
-		"sCodExpediente": "R1709031618",
-		"sCodigoRespuesta": "003",
-		"sCodigoError": "99",
-		"nFechaRespuesta": 9999999999
-	},
-	"08peticion": {
-		"sPAN": "4255497777777777",
-	},
-	"08respuesta": [
-		{
-		  "Fecha": "25092017",
-		  "Importe": 100.59,
-		  "CodigoRespuesta": "XX",
-		  "DiasRestante": "025",
-		  "Plan": "10000",
-		  "CodigoActividad": "05411",
-		  "Comercio": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	"
-		},
-		{
-		  "Fecha": "25092017",
-		  "Importe": 100.59,
-		  "CodigoRespuesta": "XX",
-		  "DiasRestante": "025",
-		  "Plan": "10000",
-		  "CodigoActividad": "05411",
-		  "Comercio": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	"
-		},
-		{
-		  "Fecha": "25092017",
-		  "Importe": 100.59,
-		  "CodigoRespuesta": "XX",
-		  "DiasRestante": "025",
-		  "Plan": "10000",
-		  "CodigoActividad": "05411",
-		  "Comercio": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	"
-		}
-	]
+  "cabecera": {
+    "sCodigoPeticion": 9999999999,
+    "sCodOperativa": "99",
+    "sCodExpediente": "R9999999999",
+    "sCodigoRespuesta": "003",
+    "sCodigoError": "99",
+    "nFechaRespuesta": 9999999999
+  },
+  "peticion": {
+    "sPAN": "1234567890111111"
+  },
+  "respuesta": {
+    "sDNI": "XXXXXXXXX",
+    "sNombre": "XXXXXXXXXXXXXXXXXXX",
+    "sNumCliente": 10000000000000000000,
+    "sTelefono": "999999999",
+    "sEmail": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  }
 }
