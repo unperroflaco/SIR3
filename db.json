@@ -1,14 +1,20 @@
 {
-	"cabecera": {
-		"sCodigoPeticion": "10",
-		"sCodOperativa": "04",
-		"sCodExpediente": "R1709031618",
-		"sCodigoRespuesta": "000",
-		"sCodigoError": "",
-		"nFechaRespuesta": 201709271229
-	},
-	"memo": {
-		"sPAN": "4255497777777777",
-		"sMemo": "esto es una prueba"
-	}
+  "cabecera": {
+    "sCodigoPeticion": 9999999999,
+    "sCodOperativa": "06",
+    "sCodExpediente": "R1709031618",
+    "sCodigoRespuesta": "003",
+    "sCodigoError": "",
+    "nFechaRespuesta": 0
+  },
+  "06peticion": {
+    "sPAN": "4255497777777777"
+  },
+  "06respuesta": {
+    "sDNI": "12345678K",
+    "sNombre": "Fernado García González",
+    "sNumCliente": 10000000000000123789,
+    "sTelefono": "971658877",
+    "sEmail": "fernado@gmail.com"
+  }
 }
