@@ -1,11 +1,11 @@
 {
 	"cabecera": {
-		"sCodigoPeticion": "9",
+		"sCodigoPeticion": "10",
 		"sCodOperativa": "04",
 		"sCodExpediente": "R1709031618",
-		"sCodigoRespuesta": "001",
-		"sCodigoError": "01",
-		"nFechaRespuesta": 201709271210
+		"sCodigoRespuesta": "000",
+		"sCodigoError": "",
+		"nFechaRespuesta": 201709271226
 	},
 	"memo": {
 		"sPAN": "4255497777777777",
