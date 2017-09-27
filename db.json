@@ -3,18 +3,16 @@
     "sCodigoPeticion": 1,
     "sCodOperativa": "06",
     "sCodExpediente": "R1709031618",
-    "sCodigoRespuesta": "000",
+    "sCodigoRespuesta": "003",
     "sCodigoError": "",
     "nFechaRespuesta": 201709271401
   },
-  "06peticion": {
-    "sPAN": "4255497777777777"
-  },
-  "06respuesta": {
-    "sDNI": "12345678K",
-    "sNombre": "Fernado García González",
-    "sNumCliente": 10000000000000123789,
-    "sTelefono": "971658877",
-    "sEmail": "fernado@gmail.com"
-  }
+  "07peticion": {
+		"sPAN": "1234567890111111",
+		"sNumCliente": 10000000000000000000,
+		"sFechaSiniestro": "20170915"
+	},
+	"07respuesta": {
+		"sCodigoFraude": "1234567890111111"
+	}
 }
