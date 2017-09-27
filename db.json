@@ -1,14 +1,14 @@
 {
-  "cabecera": {
-    "sCodigoPeticion": 9999999999,
-    "sCodOperativa": "04",
-    "sCodExpediente": "R9999999999",
-    "sCodigoRespuesta": "003",
-    "sCodigoError": "99",
-    "nFechaRespuesta": 9999999999
-  },
-  "memo": {
-    "sPAN": "1234567890111111",
-    "sMemo": "Esto es una prueba de comentario memo"
-  }
+	"cabecera": {
+		"sCodigoPeticion": "1",
+		"sCodOperativa": "04",
+		"sCodExpediente": "R1709031618",
+		"sCodigoRespuesta": "001",
+		"sCodigoError": "01",
+		"nFechaRespuesta": 201709271210
+	},
+	"memo": {
+		"sPAN": "4255497777777777",
+		"sMemo": "esto es una prueba"
+	}
 }
