@@ -3,9 +3,9 @@
     "sCodigoPeticion": 1,
     "sCodOperativa": "06",
     "sCodExpediente": "R1709031618",
-    "sCodigoRespuesta": "001",
-    "sCodigoError": "58",
-    "nFechaRespuesta": 201709271412
+    "sCodigoRespuesta": "000",
+    "sCodigoError": "",
+    "nFechaRespuesta": 201709271414
   },
   "06peticion": {
     "sPAN": "4255497777777777"
