@@ -11,8 +11,8 @@
 		"sPAN": "1234567890111111",
 		"sNumCliente": 10000000000000000000,
 		"sFechaSiniestro": "20170915"
-	},
-	"07respuesta": {
+},
+"07respuesta": {
 		"sCodigoFraude": "1234567890111111"
-	}
+}
 }
